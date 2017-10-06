@@ -1,3 +1,6 @@
+[![Datmo Model](https://datmo.com/shabazb/numerai-competition/badge.svg)](https://datmo.com/shabazb/numerai-competition)
+
+
 # Numerai Model
 
 [![Datmo Model](https://beta.datmo.io/shabazp/numerai-model/badge.svg)](https://beta.datmo.io/shabazp/numerai-model)
